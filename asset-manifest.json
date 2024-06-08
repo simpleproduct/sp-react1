@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sp-react1/static/css/main.ae42ac5f.css",
+    "main.js": "/sp-react1/static/js/main.601d032c.js",
+    "index.html": "/sp-react1/index.html",
+    "main.ae42ac5f.css.map": "/sp-react1/static/css/main.ae42ac5f.css.map",
+    "main.601d032c.js.map": "/sp-react1/static/js/main.601d032c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.601d032c.js"
+  ]
+}
